@@ -1,2 +1,2 @@
 # iat339-demo
-github tutorial
+Lab tutorial on GitHub
